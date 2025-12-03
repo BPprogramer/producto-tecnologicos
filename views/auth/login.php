@@ -1,6 +1,6 @@
 <div class="login-box">
   <div class="login-logo">
-    <a href="../../index2.html"><b>PRODUCTOS</b>TECNOLOGICOS</a>
+    <a href="../../index2.html"><b>PRODUCTOS</b>TECN</a>
   </div>
   <!-- /.login-logo -->
   <div class="card">
